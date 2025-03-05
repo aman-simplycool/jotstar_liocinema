@@ -23,6 +23,7 @@ Identified correlations between watch time and inactivity trends to assess engag
 Downgrade Trends
 Compared downgrade patterns across platforms to identify churn risks.
 Upgrade Patterns
+https://drive.google.com/file/d/1-Q_V0xqoSwZZjEer0GxajZsX4-1DVM1W/view?usp=drive_link
 ![Image](https://github.com/user-attachments/assets/51566ca6-38fc-4d44-933c-3a6f10744e6b)
 
 ![Image](https://github.com/user-attachments/assets/04bc2872-b235-4f20-a95a-ebbd90be93fd)
